@@ -15,4 +15,4 @@ http://rpm5.org/files/popt/popt-1.16.tar.gz
 `slang-2.3.2.tar.bz2`  
 https://www.jedsoft.org/releases/slang/slang-2.3.2.tar.bz2
 
-[`SHASUM.txt`]: https://github.com/xelkarin/vendor-newt-sys/blob/rev2/SHASUM.txt
+[`SHASUM.txt`]: https://github.com/rtgill82/vendor-newt-sys/blob/rev2/SHASUM.txt
