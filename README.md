@@ -9,8 +9,8 @@ locations and SHA-256 sums can be found in [`SHASUM.txt`].
 `newt-0.52.21.tar.gz`  
 https://releases.pagure.org/newt/newt-0.52.21.tar.gz
 
-`popt-1.16.tar.gz`  
-http://rpm5.org/files/popt/popt-1.16.tar.gz
+`popt-1.18.tar.gz`  
+http://ftp.rpm.org/popt/releases/popt-1.x/popt-1.18.tar.gz
 
 `slang-2.3.2.tar.bz2`  
 https://www.jedsoft.org/releases/slang/slang-2.3.2.tar.bz2
